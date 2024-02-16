@@ -71,3 +71,13 @@ The outlet should capitalize on Large size Classic, Supreme, Veggie and Chicken 
 Since XL and XXL pizzas account for such a small percentage of their sales (just 1.94%), they can safely get rid of these pizza sizes.
 
 Even though the Brie Carre pizza is the worst seller, it recorded 490 pizzas sold. It would still be a good idea to keep it in the menu.
+
+**Queries Used**
+
+![Screenshot_20240216_183602_Doc Scanner](https://github.com/srishtikatiyar3/Pizza-Sales-/assets/160014323/5ef06925-5d75-4701-b455-a80225900d0b)
+
+![Screenshot_20240216_183634_Doc Scanner](https://github.com/srishtikatiyar3/Pizza-Sales-/assets/160014323/9a97413c-415a-4c16-afec-c82e06c13b26)
+
+
+
+
